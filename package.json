@@ -2,6 +2,7 @@
   "name": "app_ecom_nextjs",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://kuban23.github.io/app_ecom_nextjs/",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
